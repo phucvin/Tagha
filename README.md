@@ -8,7 +8,7 @@
 
 ## Introduction
 
-**Tagha** is a minimal, fast, memory-safe, self-contained, register-based virtual machine runtime environment designed to execute C code as bytecode scripts.
+**Tagha** is a minimal, fast, memory-safe, self-contained, register-based virtual machine runtime environment designed to execute C code that's compiled to bytecode scripts.
 
 ### Rationale:
 
