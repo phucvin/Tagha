@@ -3,3 +3,4 @@ result => 120 | err? 'None' | elapsed => 0.003000ms
 result => 1 | err? 'None' | elapsed => 0.023000ms
 result => 102334155 | err? 'None' | elapsed => 7153.598000ms
 result => 102334155 | err? 'None' | elapsed => 6718.460000ms
+result => 5 | err? 'Bad Function' | elapsed => 0.028000ms

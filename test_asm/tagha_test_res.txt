@@ -1,0 +1,5 @@
+result => 120 | err? 'None' | elapsed => 849.989000ms
+result => 120 | err? 'None' | elapsed => 0.003000ms
+result => 120 | err? 'None' | elapsed => 0.002000ms
+result => 120 | err? 'None' | elapsed => 754.807000ms
+result => 120 | err? 'None' | elapsed => 777.304000ms
